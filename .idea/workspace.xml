@@ -1,48 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a096f8b-6ac2-4b4c-b38c-fcfbb27db985" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="4a096f8b-6ac2-4b4c-b38c-fcfbb27db985" name="Changes" comment="Test al doilea commit">
+      <change afterPath="$PROJECT_DIR$/src/exercitiul1/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiul2/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiul2/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiul3/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiul4/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiul5/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "YiuKentSimi20"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YiuKentSimi20&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/YiuKentSimi20/Laborator1.git",
-    "accountId": "7aa14b2b-f1e2-4e35-ab91-8df40d92a456"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YiuKentSimi20/Laborator1.git&quot;,
+    &quot;accountId&quot;: &quot;7aa14b2b-f1e2-4e35-ab91-8df40d92a456&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2mnvkzcsbs6W1V0XyHc9ybmo0rX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Programare_java/Project2/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Programare_java/Project2/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,11 +84,29 @@
       <option name="presentableId" value="Default" />
       <updated>1727725301680</updated>
       <workItem from="1727725302702" duration="1000" />
-      <workItem from="1727772557333" duration="98000" />
+      <workItem from="1727772557333" duration="214000" />
+      <workItem from="1727772781795" duration="119000" />
+      <workItem from="1727784304117" duration="18000" />
+      <workItem from="1728078107139" duration="17000" />
+      <workItem from="1728122809958" duration="227000" />
+      <workItem from="1728123759813" duration="7455000" />
     </task>
+    <task id="LOCAL-00001" summary="Test al doilea commit">
+      <option name="closed" value="true" />
+      <created>1727772701835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727772701835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test al doilea commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test al doilea commit" />
   </component>
 </project>
