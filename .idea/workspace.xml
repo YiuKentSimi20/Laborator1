@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a096f8b-6ac2-4b4c-b38c-fcfbb27db985" name="Changes" comment="Test al doilea commit">
-      <change afterPath="$PROJECT_DIR$/src/exercitiul1/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul2/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul2/in.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul3/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul4/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul5/MainApp.java" afterDir="false" />
+    <list default="true" id="4a096f8b-6ac2-4b4c-b38c-fcfbb27db985" name="Changes" comment="Tema1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +57,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/Programare_java/Project2/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,7 +83,12 @@
       <workItem from="1727784304117" duration="18000" />
       <workItem from="1728078107139" duration="17000" />
       <workItem from="1728122809958" duration="227000" />
-      <workItem from="1728123759813" duration="7455000" />
+      <workItem from="1728123759813" duration="7971000" />
+      <workItem from="1728175215159" duration="13000" />
+      <workItem from="1728175484964" duration="22000" />
+      <workItem from="1728175517561" duration="20000" />
+      <workItem from="1728175575961" duration="1598000" />
+      <workItem from="1728284359236" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="Test al doilea commit">
       <option name="closed" value="true" />
@@ -99,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727772701835</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test al doilea commit">
+      <option name="closed" value="true" />
+      <created>1728133054169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728133054169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
