@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a096f8b-6ac2-4b4c-b38c-fcfbb27db985" name="Changes" comment="Tema1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercitiul1/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercitiul2/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercitiul2/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercitiul3/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercitiul4/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercitiul5/MainApp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +56,7 @@
   "keyToString": {
     "Application.MainApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -88,7 +96,9 @@
       <workItem from="1728175484964" duration="22000" />
       <workItem from="1728175517561" duration="20000" />
       <workItem from="1728175575961" duration="1598000" />
-      <workItem from="1728284359236" duration="101000" />
+      <workItem from="1728284359236" duration="1329000" />
+      <workItem from="1728379066005" duration="1000" />
+      <workItem from="1728655254901" duration="745000" />
     </task>
     <task id="LOCAL-00001" summary="Test al doilea commit">
       <option name="closed" value="true" />
@@ -106,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728133054169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tema1">
+      <option name="closed" value="true" />
+      <created>1728284601129</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728284601129</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test al doilea commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test al doilea commit" />
+    <MESSAGE value="Tema1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema1" />
   </component>
 </project>

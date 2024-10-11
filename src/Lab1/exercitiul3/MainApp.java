@@ -1,4 +1,4 @@
-package exercitiul3;
+package Lab1.exercitiul3;
 
 import java.util.Scanner;
 
