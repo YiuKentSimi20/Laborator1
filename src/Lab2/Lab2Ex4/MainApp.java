@@ -1,7 +1,6 @@
 package Lab2.Lab2Ex4;
 
 import java.io.FileNotFoundException;
-import java.io.PrintStream;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
