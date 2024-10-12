@@ -1,13 +1,14 @@
 package Lab2.Lab2Ex4;
 
-import java.time.Duration;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
 
 
 class Persoana{
-    private String nume;
+    private final String nume;
     private String cnp;
     private long varsta;
 
@@ -16,11 +17,7 @@ class Persoana{
         this.cnp = cnp;
     }
 
-    public String getNume() { return nume; }
-    public String getCnp() { return cnp; }
-    public void setNume(String nume) { this.nume = nume; }
     public void setCnp(String cnp) { this.cnp = cnp; }
-    public long getVarsta() { return varsta; }
 
     public void setVarsta(){
         String an_aux = cnp.substring(1, 3);
@@ -80,7 +77,7 @@ class Persoana{
 }
 
 public class MainApp {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Introduceti nr de persoane:");
@@ -108,8 +105,8 @@ public class MainApp {
             System.out.println("\nPersoana introdusa!\n");
 
         }
-        for(int i = 0; i < lista_persoane.length; i++) {
-            lista_persoane[i].afisarePersoana();
+        for (Persoana persoana : lista_persoane) {
+            persoana.afisarePersoana();
         }
     }
 }
