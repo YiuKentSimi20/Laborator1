@@ -1,0 +1,1 @@
+denumire: unt; pret: 3.4; cantitate: 7; data_expirarii: 2025-11-01
